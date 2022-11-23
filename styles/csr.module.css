@@ -1,0 +1,10 @@
+.topicInfo{
+  background: #ccc;
+  padding: 10px;
+  display: inline-block;
+  min-height: 150px;
+  min-width: 150px;
+  box-shadow: 2px 1px 15px #4a4a4a;
+  border-radius: 10px;
+  color: #000;
+}
